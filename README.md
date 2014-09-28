@@ -1,8 +1,6 @@
 minesweeper-js
 ==============
 
-Client/server minesweeper in Node.JS
-
 Client-server minesweeper in JavaScript using Node.JS and MongoDB
 to store the results (player's score).
 
